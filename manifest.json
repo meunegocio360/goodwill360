@@ -37,9 +37,9 @@
   }
  ],
  "name": "Goodwill Car Center - Goodfood - Estacionamento - Tour Virtual 360°",
- "description": "R. Aurora Soares Barbosa, 485 - Vila Campesina, Osasco - SP",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "display": "fullscreen",
  "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "description": "R. Aurora Soares Barbosa, 485 - Vila Campesina, Osasco - SP"
 }
